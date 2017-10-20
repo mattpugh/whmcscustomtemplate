@@ -1,0 +1,23 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+
+#promo-banner{
+    background: orange;
+    text-align: center;
+    padding: 1em;
+}
+
+#promo-banner-text{
+color: white;
+font-size:1.2em;
+}
+
+#promo-banner-text.a{
+  color:blue
+}
