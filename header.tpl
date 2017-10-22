@@ -132,7 +132,11 @@
 
     <div id="promo-banner">
         <div id="promo-banner-text">
-        Have you seen our new automated services? <a href="http://zac.whmcstest.com/members/whmcs/index.php?rp=/store/website-builder">Website Builder, </a> <a href="http://zac.whmcstest.com/members/whmcs/index.php?rp=/store/email-services">Email Manager, </a>and <a href="http://zac.whmcstest.com/members/whmcs/index.php?rp=/store/ssl-certificates">SSL Certificates. </a>All ready for you to sell instantly. 
+            Have you seen our new automated services?
+            <a href="{$WEB_ROOT}/index.php?rp=/store/website-builder">Website Builder</a>,
+            <a href="{$WEB_ROOT}/index.php?rp=/store/email-services">Email Manager</a>, and
+            <a href="{$WEB_ROOT}/index.php?rp=/store/ssl-certificates">SSL Certificates</a>.
+            All ready for you to sell instantly.
         </div>
     </div>
 

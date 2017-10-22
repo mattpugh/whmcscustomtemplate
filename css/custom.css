@@ -7,17 +7,17 @@
 
 ***************************************************** */
 
-#promo-banner{
+#promo-banner {
     background: orange;
     text-align: center;
     padding: 1em;
 }
 
-#promo-banner-text{
-color: white;
-font-size:1.2em;
+#promo-banner-text {
+    color: white;
+    font-size: 1.2em;
 }
 
-#promo-banner-text.a{
-  color:blue
+#promo-banner-text.a {
+    color: blue;
 }
